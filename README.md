@@ -11,7 +11,7 @@ Continuous Delivery is an approach in which all changes are delivered quickly, s
 
 # Continuous Integration:
 
-if something takes a lot of time and energy, you should do it more often, forcing you to make it less painful. 
+>if something takes a lot of time and energy, you should do it more often, forcing you to make it less painful. 
 
 CI is the practice of automating the integration of code changes into a mainline codebase (trunk). Developers merge code changes into a central repository where automated tests are run both before and after the merge, which ensures that the changes do not introduce bugs. 
 
