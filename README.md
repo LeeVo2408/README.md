@@ -17,10 +17,10 @@ CI is the practice of automating the integration of code changes into a mainline
 
 To successfully implement CI, the minimum requirements are: 
 
--	**The practice of trunk-based development: developers divide their work into small branches and merge that work into a trunk frequently.
--	**An automated build process: CI system should be authoritative so that anyone can use a single command to activate the system.
--	**An automated testing process: when they fall, problems are revealed, and when they pass, there is no problem with the system.
--	**A CI system that runs the build and automated tests: the status of the work should be visible to the team.
+-	**The practice of trunk-based development**: developers divide their work into small branches and merge that work into a trunk frequently.
+-	**An automated build process**: CI system should be authoritative so that anyone can use a single command to activate the system.
+-	**An automated testing process**: when they fall, problems are revealed, and when they pass, there is no problem with the system.
+-	**A CI system that runs the build and automated tests**: the status of the work should be visible to the team.
 
 # Tools
 
