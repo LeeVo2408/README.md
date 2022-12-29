@@ -23,9 +23,9 @@ CI is the practice of automating the integration of code changes into a mainline
 
 To successfully implement CI, the minimum requirements are: 
 
--	**trunk-based development**: developers divide their work into small branches and merge that work into a trunk frequently.
+-	**Trunk-based development**: developers divide their work into small branches and merge that work into a trunk frequently.
 -	**Continually**: automated testing process
--	**visability**: the status of the work should be visible to the team.
+-	**Visability**: the status of the work should be visible to the team.
 
 # Tools
 
