@@ -27,7 +27,31 @@ To successfully implement CI, the minimum requirements are:
 -	**Continually**: automated testing process
 -	**Visability**: the status of the work should be visible to the team.
 
-# Tools
+# Open- source CI/CD Tools
+######1 . Jenkins
+One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
 
+The benefits of Jenkins are:
+-	High security
+-	Easy to set up 
+-	It can run on all major platforms
+-	Huge variety of plugins  
 
+Disadvantages: 
+-	Difficult in managing plugin
+-	It does not allow sever-to-server federation 
 
+######2.	GitLab 
+Gitlab is a collection of tools for managing various areas of the software development cycle. The core product is a web-based Git repository manager with tools for issues tracking, analytics and wiki.
+
+Developers have the option to start builds, launch tests, and deploy code when push or commit code on Gitlab 
+
+Advantages:
+-	Simple Configuration 
+-	High security
+-	Automated pipeline 
+-	Allow self-hosting on any plan 
+-	Supports Docker
+Disadvantages:
+-	The interface might be slower than other platforms.
+-	Common problems with repositories.
