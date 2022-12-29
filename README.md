@@ -12,7 +12,7 @@ Benefits of implementing CD:
 -	**Low risk released**: CD identifies and addresses bugs in the earlier stage before they grow into more significant problems later. 
 -	**Improve developer performance**: Teams have more time to focus on creating innovation instead of doing repetitive tasks. Developers are more confident when pushing code into production with an automated, reliable testing process.
 -	**Deliver updates faster**: Organizations can deliver updates to customers quickly and frequently.
--	
+
 There are some minimum practices required, and one of them can be mentioned is [Continuous Integration](https://github.com/LeeVo2408/README.md/blob/main/README.md#continuous-integration) 
 
 # Continuous Integration:
