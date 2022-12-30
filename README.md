@@ -74,11 +74,15 @@ Disadvantages:
 # Relevant Sources of Information 
 
 [Inplementing Countinuous Delivery](https://cloud.google.com/architecture/devops/devops-tech-continuous-delivery#implementing_continuous_delivery)
+
 [DecOps Tech: Continuous Integration](https://cloud.google.com/architecture/devops/devops-tech-continuous-integration)
+
 [Continuous Delivery](https://continuousdelivery.com/) by Jez Humble
 
 ##About the Tools
+
 [Best Open Source CI/CD 2022](https://hevodata.com/learn/open-source-ci-cd-tools/#O5)
+
 [Top 14 Ci/CD tools for your DepvOps project](https://www.browserstack.com/guide/top-ci-cd-tools)
 
 
