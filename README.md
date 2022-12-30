@@ -31,7 +31,15 @@ To successfully implement CI, the minimum requirements are:
 
 There are variety of CI/CD tools on the market; therefore, rganizations have choices to choose the most suitable tools that can be beneficial based on their needs and goals. 
 
-The list below includes the most famous tool, the beginners-friendly tool and the tool that is best for specific needs.
+The list below includes the [most famous tool] Sources of Information 
+
+[Inplementing Countinuous Delivery](https://cloud.google.com/architecture/devops/devops-tech-continuous-delivery#implementing_continuous_delivery)
+[DecOps Tech: Continuous Integration](https://cloud.google.com/architecture/devops/devops-tech-continuous-integration)
+[Continuous Delivery](https://continuousdelivery.com/) by Jez Humble
+
+##About the Tools
+[Best Open Source CI/CD 2022](https://hevodata.com/learn/open-source-ci-cd-tools/#O5)
+[Top 14 Ci/CD tools for your DepvOps project](https://www.browserstack.com/guide/top-ci-cd-tools), the [beginners-friendly tool]( and the tool that is best for specific needs.
 
 ###### 1 . [Jenkins](https://www.jenkins.io/)
 - One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
