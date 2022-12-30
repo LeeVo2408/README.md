@@ -31,7 +31,7 @@ To successfully implement CI, the minimum requirements are:
 
 There are variety of CI/CD tools on the market; therefore, rganizations have choices to choose the most suitable tools that can be beneficial based on their needs and goals. 
 
-The list below includes the [most famous tool] Sources of Information, the [beginners-friendly tool]( and the tool that is best for specific needs.
+The list below includes the most famous tool (1), the beginners-friendly tool (2) and the tool that is best for specific needs (3).
 
 ###### 1 . [Jenkins](https://www.jenkins.io/)
 - One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
