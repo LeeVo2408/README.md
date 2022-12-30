@@ -79,7 +79,7 @@ Disadvantages:
 
 [Continuous Delivery](https://continuousdelivery.com/) by Jez Humble
 
-##About the Tools
+## About the Tools
 
 [Best Open Source CI/CD 2022](https://hevodata.com/learn/open-source-ci-cd-tools/#O5)
 
