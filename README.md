@@ -42,7 +42,7 @@ Disadvantages:
 -	Difficult in managing plugin
 -	It does not allow sever-to-server federation 
 
-######2.	[Buddy](https://buddy.works/)
+###### 2.	[Buddy](https://buddy.works/)
 Buddy is a CI/CD tool that is friendly and easy to use. It has a simple and intuitive user interface. Using the delivery pipeline, Buddy can build, test and deploy applications.
 
 Buddy is usefull in notifying failiours in building and deploying code. It intergrates with Shopify, WOrdpress, Google, Digital Ocean, and more.
@@ -54,7 +54,7 @@ Advantages:
 Disadvantages
 -	There is little information or documents available about this tool.
 
-######3.	[GitLab](https://gitlab.com/users/sign_in)
+###### 3.	[GitLab](https://gitlab.com/users/sign_in)
 Gitlab is a collection of tools for managing various areas of the software development cycle. The core product is a web-based Git repository manager with tools for issues tracking, analytics and wiki.
 
 GitLab is popular among people who work on Docker-based containers and microservice. It provides excellent pipeline control overall and integrations.
