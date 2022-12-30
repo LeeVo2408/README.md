@@ -28,8 +28,9 @@ To successfully implement CI, the minimum requirements are:
 -	**Visability**: the status of the work should be visible to the team.
 
 # Open- source CI/CD Tools
-######1 . Jenkins
-One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
+######1 . [Jenkins](https://www.jenkins.io/)
+- One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
+-	Every source code change is built and tested. Therefore, new software is released frequently, because developers only need to concentrate on a specific commit rather than the entire source code. 
 
 The benefits of Jenkins are:
 -	High security
@@ -41,17 +42,30 @@ Disadvantages:
 -	Difficult in managing plugin
 -	It does not allow sever-to-server federation 
 
-######2.	GitLab 
+######2.	[Buddy](https://buddy.works/)
+Buddy is a CI/CD tool that is friendly and easy to use. It has a simple and intuitive user interface. Using the delivery pipeline, Buddy can build, test and deploy applications.
+
+Buddy is usefull in notifying failiours in building and deploying code. It intergrates with Shopify, WOrdpress, Google, Digital Ocean, and more.
+Advantages: 
+-	supporting widely used languages, frameworks, and task management 
+-	Easy configuration 
+-	Simple and informative User interface
+-	High security 
+Disadvantages
+-	There is little information or documents available about this tool.
+
+######3.	[GitLab](https://gitlab.com/users/sign_in)
 Gitlab is a collection of tools for managing various areas of the software development cycle. The core product is a web-based Git repository manager with tools for issues tracking, analytics and wiki.
 
-Developers have the option to start builds, launch tests, and deploy code when push or commit code on Gitlab 
-
+GitLab is popular among people who work on Docker-based containers and microservice. It provides excellent pipeline control overall and integrations.
 Advantages:
 -	Simple Configuration 
 -	High security
 -	Automated pipeline 
 -	Allow self-hosting on any plan 
--	Supports Docker
 Disadvantages:
 -	The interface might be slower than other platforms.
 -	Common problems with repositories.
+
+
+
