@@ -85,4 +85,3 @@ Disadvantages:
 [Best Open Source CI/CD 2022](https://hevodata.com/learn/open-source-ci-cd-tools/#O5)
 
 [Top 14 Ci/CD tools for your DepvOps project](https://www.browserstack.com/guide/top-ci-cd-tools)
-![image](https://user-images.githubusercontent.com/121306546/210133094-560ff53f-3257-4e3e-89ec-d207efc2c13d.png)
