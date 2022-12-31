@@ -1,10 +1,10 @@
-The ultimate goal of practising Continuous Delivery is to enhance the delivery flow. In general, CD:
+The ultimate goal of practising Continuous Delivery (CD) is to enhance the delivery flow. In general, CD:
 
 - Improve the speed of delivery; therefore, improve an organization's efficiency.
 
-It is crucial to understand briefly how CD works and can be a powerful tool.
+It is crucial to understand briefly how CD works and how it can be a powerful tool in production.
 
-# Continuous Delivery 
+# Continuous Delivery (CD)
 Continuous Delivery is an engineering approach in which all changes are delivered quickly, safely, and sustainably. It provides an automated high-speed building and testing environment to ensure changes are relevant. This is achieved by ensuring that code is always in a deployable state, even with thousands of changes made daily. In short, CD automates the repetitive tasks in the deployment process and lets people solve problems.
 
 Benefits of implementing CD:
@@ -14,7 +14,7 @@ Benefits of implementing CD:
 
 There are some minimum practices required, and one of them is [Continuous Integration](https://github.com/LeeVo2408/README.md/blob/main/README.md#continuous-integration) 
 
-# Continuous Integration:
+# Continuous Integration (CI):
 
 >if something takes a lot of time and energy, you should do it more often, forcing you to make it less painful. 
 
