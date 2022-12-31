@@ -34,7 +34,7 @@ The list below includes the most famous tool (1), the beginner-friendly tool (2)
 
 ###### 1 . [Jenkins](https://www.jenkins.io/)
 - One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
--          Every source code change is built and tested. Therefore, new software is released frequently because developers only need to concentrate on a specific commit rather than the entire source code. 
+- Every source code change is built and tested. Therefore, new software is released frequently because developers only need to concentrate on a specific commit rather than the entire source code. 
 
 The benefits of Jenkins are:
 - High security
