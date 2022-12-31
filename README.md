@@ -2,7 +2,7 @@ The ultimate goal of practising Continuous Delivery is to enhance the delivery f
 
 - Improve the speed of delivery; therefore, improve an organization's efficiency.
 
-The organization should understand briefly how CD works and can be a powerful tool.
+It is crucial to understand briefly how CD works and can be a powerful tool.
 
 # Continuous Delivery 
 Continuous Delivery is an engineering approach in which all changes are delivered quickly, safely, and sustainably. It provides an automated high-speed building and testing environment to ensure changes are relevant. This is achieved by ensuring that code is always in a deployable state, even with thousands of changes made daily. In short, CD automates the repetitive tasks in the deployment process and lets people solve problems.
