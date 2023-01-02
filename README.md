@@ -10,7 +10,7 @@ Continuous Delivery is a software engineering approach in which all changes are 
 Benefits of implementing CD:
 -	**Low risk released**: CD identifies and addresses bugs in the earlier stages before they become significant problems later. 
 
--	**Improve developers' performance**: Teams have more time to focus on creating innovation instead of doing repetitive tasks. Developers are more confident when pushing code into production with an automated and reliable testing process.
+-	**Improve developers' performance**: Teams have more time to focus on creating innovation instead of doing repetitive tasks. With an automated and reliable testing process, developers are more confident when pushing code into production.
 
 -	**Delivery updates faster**: Organizations can deliver updates to customers quickly and frequently.
 
