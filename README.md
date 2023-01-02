@@ -9,7 +9,9 @@ Continuous Delivery is a software engineering approach in which all changes are 
 
 Benefits of implementing CD:
 -	**Low risk released**: CD identifies and addresses bugs in the earlier stages before they become significant problems later. 
+
 -	**Improve developers' performance**: Teams have more time to focus on creating innovation instead of doing repetitive tasks. Developers are more confident when pushing code into production with an automated and reliable testing process.
+
 -	**Delivery updates faster**: Organizations can deliver updates to customers quickly and frequently.
 
 There are some minimum practices required, and one of them is [Continuous Integration](https://github.com/LeeVo2408/README.md/blob/main/README.md#continuous-integration) 
@@ -23,7 +25,9 @@ CI is the practice of automating the integration of code changes into a mainline
 To successfully implement CI, the minimum requirements are: 
 
 -	**Trunk-based development**: developers frequently divide their work into small branches and merge them into a trunk.
+
 -	**Continually**: automated testing process
+
 -	**Visibility**: the status of the work should be visible to the team.
 
 # Open-source CI/CD Tools
