@@ -61,6 +61,7 @@ Advantages:
 -	Easy configuration 
 -	Simple and informative User interface
 -	High security 
+
 Disadvantages
 -	There is little information or documents available about this tool.
 
@@ -74,6 +75,7 @@ Advantages:
 -	High security
 -	Automated pipeline 
 -	Allow self-hosting on any plan 
+
 Disadvantages:
 - The interface might be slower than other platforms.
 - Common problems with repositories.
