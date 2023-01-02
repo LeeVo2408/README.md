@@ -34,9 +34,10 @@ The list below includes the most famous tool (1), the beginner-friendly tool (2)
 
 ###### 1 . [Jenkins](https://www.jenkins.io/)
 - One of the leading CI/CD tool on the market. Jenkins is a cross-platform, java-based tool that mainly supports Ci operation. In addition, Jenkins can be extended via plugins, which integrate other development lifecycle operations, such as build, document, deploy, and much more.
-- Every source code change is built and tested. Therefore, new software is released frequently because developers only need to concentrate on a specific commit rather than the entire source code. 
 
-The benefits of Jenkins are:
+- Jenkins is one of the most famous CI tools thanks to its real-time testing and reporting on isolated changes in a larger codebase, alongside simple installation and configuration. Every source code change is built and tested. Therefore, new software is released frequently because developers only need to concentrate on a specific commit rather than the entire source code. 
+
+Advantages:
 - High security
 - Easy to set up 
 - It can run on all major platforms
@@ -47,9 +48,10 @@ Disadvantages:
 -	It does not allow sever-to-server federation 
 
 ###### 2.       [Buddy](https://buddy.works/)
-Buddy is a CI/CD tool that is friendly and easy to use. It has a simple and intuitive user interface. Using the delivery pipeline, Buddy can build, test and deploy applications.
+- Buddy is a CI/CD tool that is friendly and easy to use. It has a simple and intuitive user interface. Using the delivery pipeline, Buddy can build, test and deploy applications.
 
-Buddy is helpful in notifying failures in building and deploying code. It integrates with Shopify, WordPress, Google, Digital Ocean, and more.
+- Buddy has more than 100 ready-to-use activities for fast deployment, allowing the best delivery in the most straightforward way, which helps developers transition to CI/CD practices easier. It is also helpful in notifying failures in building and deploying code.
+
 Advantages: 
 -	supporting widely used languages, frameworks, and task management 
 -	Easy configuration 
@@ -59,9 +61,10 @@ Disadvantages
 -	There is little information or documents available about this tool.
 
 ###### 3.       [GitLab](https://gitlab.com/users/sign_in)
-Gitlab is a collection of tools for managing various areas of the software development cycle. The core product is a web-based Git repository manager with tools for issues tracking, analytics and wiki.
+- Gitlab is a collection of tools for managing various areas of the software development cycle. The core product is a web-based Git repository manager with tools for issues tracking, analytics and wiki.
 
-GitLab is popular among people who work on Docker-based containers and microservice. It provides excellent pipeline control overall and integrations.
+- GitLab is popular among people who work on Docker-based containers and microservice. Docker’s users can run CI/CD test jobs separated in Docker containers and create Docker images using GitLab Runner. It provides excellent pipeline control overall and integrations.
+
 Advantages:
 -	Simple Configuration 
 -	High security
@@ -85,3 +88,5 @@ Disadvantages:
 [Best Open Source CI/CD 2022](https://hevodata.com/learn/open-source-ci-cd-tools/#O5)
 
 [Top 14 Ci/CD tools for your DepvOps project](https://www.browserstack.com/guide/top-ci-cd-tools)
+
+(GitLab Docs)[https://docs.gitlab.com/ee/ci/docker/using_docker_build.html]
