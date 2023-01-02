@@ -1,6 +1,6 @@
 The ultimate goal of practising Continuous Delivery (CD) is to enhance the delivery flow. In general, CD:
 
-- Improve the speed of delivery; therefore, improve an organization's efficiency.
+- Improves the speed of delivery; therefore, improve an organization's efficiency.
 
 It is crucial to understand briefly how CD works and how it can be a powerful tool in production.
 
