@@ -45,7 +45,7 @@ Advantages:
 
 Disadvantages: 
 -	Difficult in managing plugin
--	It does not allow sever-to-server federation 
+-	It does not allow sever-to-server federation. 
 
 ###### 2.       [Buddy](https://buddy.works/)
 - Buddy is a CI/CD tool that is friendly and easy to use. It has a simple and intuitive user interface. Using the delivery pipeline, Buddy can build, test and deploy applications.
