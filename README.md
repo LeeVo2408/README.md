@@ -67,7 +67,7 @@ Disadvantages
 ###### 3.       [GitLab](https://gitlab.com/users/sign_in)
 - Gitlab is a collection of tools for managing various areas of the software development cycle. The core product is a web-based Git repository manager with tools for issues tracking, analytics and wiki.
 
-- GitLab is popular among people who work on Docker-based containers and microservice. Docker’s users can run CI/CD test jobs separated in Docker containers and create Docker images using GitLab Runner. It provides excellent pipeline control overall and integrations.
+- GitLab is popular among people who work on Docker-based containers and microservice. Docker’ s users can run CI/CD test jobs separated in Docker containers and create Docker images using GitLab Runner. It provides excellent pipeline control overall and integrations.
 
 Advantages:
 -	Simple Configuration 
