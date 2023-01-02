@@ -22,11 +22,11 @@ There are some minimum practices required, and one of them is [Continuous Integr
 
 CI is the practice of automating the integration of code changes into a mainline codebase (trunk). Developers merge code changes into a central repository where automated tests are run both before and after the merge, which ensures that the changes do not introduce bugs. 
 
-To successfully implement CI, the minimum requirements are: 
+To successfully implement CI, some of the minimum requirements are: 
 
 -	**Trunk-based development**: developers frequently divide their work into small branches and merge them into a trunk.
 
--	**Continually**: automated testing process
+-	**Continuity**: automated testing process
 
 -	**Visibility**: the status of the work should be visible to the team.
 
