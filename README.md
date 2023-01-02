@@ -4,7 +4,7 @@ The ultimate goal of practising Continuous Delivery (CD) is to enhance the deliv
 
 It is crucial to understand briefly how CD works and how it can be a powerful tool in production.
 
-# Continuous Delivery (CD)
+# Continuous Delivery (CD):
 Continuous Delivery is an engineering approach in which all changes are delivered quickly, safely, and sustainably. It provides an automated high-speed building and testing environment to ensure changes are relevant. This is achieved by ensuring that code is always in a deployable state, even with thousands of changes made daily. In short, CD automates the repetitive tasks in the deployment process and lets people solve problems.
 
 Benefits of implementing CD:
